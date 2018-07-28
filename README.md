@@ -1,8 +1,9 @@
 ## Website Personal Blog
+## URL : https://agrinfauzi.github.io
 
 ### Intro
 Website ini dibuat oleh **Agrin Fauzi** dengan nim **175410124**<br/>
-Untuk melengkapi tugas akhir mata kuliah *Pengembangan Konten Web Kelas 2*<br/>
+Untuk melengkapi tugas akhir mata kuliah Pengembangan Konten Web Kelas 2<br/>
 Dengan dosen Bapak **Agung Budi Prasetyo, S.Kom., M.Kom**
 
 ### Assets
